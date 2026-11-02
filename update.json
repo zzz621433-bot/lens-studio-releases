@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/zzz621433-bot/lens-studio-releases/releases/download/v1.1.2/Lens-Studio-1.1.2-win-x64.exe",
-  "size": 158769402,
-  "sha256": "89a97dd28518c9ff133f695e65ea237da51cfcfd4a3fd9186148968bcd82bc1e",
-  "notes": "灵感镜 1.1.2：新增 GitHub 联网更新通道，支持匿名检查、安装包下载与 SHA256 完整性核验。\n保留文案工作台、带货违规检索和直播复盘。公开发行包不含内置第三方接口密钥，新用户使用自己的接口配置；既有本地保存的配置与文稿保留。"
+  "version": "1.1.3",
+  "url": "https://github.com/zzz621433-bot/lens-studio-releases/releases/download/v1.1.3/Lens-Studio-1.1.3-win-x64.exe",
+  "size": 158873039,
+  "sha256": "6948733acac6eb67959ced0d2d9c9f459cb1fed2a5dcd0539340f1a40e48f506",
+  "notes": "灵感镜 1.1.3\n\n- 去掉审阅卡片和文档报告中的逻辑说明展示。\n- 采纳后的局部改动在修改建议稿中用颜色标记，撤销后同步恢复。\n- 违规库依据默认展开，使用醒目的蓝色色块。\n- 修改建议稿新增可编辑 Word 文档导出，保留正文、段落和改动颜色；纯删除保留对应批注。\n\n已完成桌面操作、颜色与正文一致性检查，并使用 Word 实际打开和渲染导出的文档。"
 }
