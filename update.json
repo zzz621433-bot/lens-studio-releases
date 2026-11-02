@@ -1,0 +1,7 @@
+{
+  "version": "1.1.2",
+  "url": "https://github.com/zzz621433-bot/lens-studio-releases/releases/download/v1.1.2/Lens-Studio-1.1.2-win-x64.exe",
+  "size": 158769402,
+  "sha256": "89a97dd28518c9ff133f695e65ea237da51cfcfd4a3fd9186148968bcd82bc1e",
+  "notes": "灵感镜 1.1.2：新增 GitHub 联网更新通道，支持匿名检查、安装包下载与 SHA256 完整性核验。\n保留文案工作台、带货违规检索和直播复盘。公开发行包不含内置第三方接口密钥，新用户使用自己的接口配置；既有本地保存的配置与文稿保留。"
+}
